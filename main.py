@@ -1,3 +1,4 @@
+#The script expects the "CookieAuthentication" value in torrc to be 1
 import sys
 import time
 import os
