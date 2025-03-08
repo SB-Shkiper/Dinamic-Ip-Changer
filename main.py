@@ -2,7 +2,6 @@
 import sys
 import time
 import os
-
 import colorama
 from stem.control import Controller
 from stem import Signal
